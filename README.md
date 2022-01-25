@@ -4,9 +4,6 @@
 ###### Feel free to add me on [LinkedIn](https://www.linkedin.com/in/guille-dorfman/)
 #
 #
-#
-#
-#
 > ![html][HTML] ![css][CSS] ![js][JS] ![react][REACT]
 
 
