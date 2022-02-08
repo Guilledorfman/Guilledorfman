@@ -1,5 +1,5 @@
 # 👋 Hi! I'm Guille Dorfman
-##### You can check out my frontend projects.
+##### You can check out my projects.
 
 ###### Feel free to add me on [LinkedIn](https://www.linkedin.com/in/guille-dorfman/)
 #
