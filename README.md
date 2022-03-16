@@ -15,4 +15,4 @@ My arsenal:
 [JS]: https://res.cloudinary.com/dxoqq4yvo/image/upload/c_scale,q_100,w_80/v1642186935/JSMark_bm7nci.png
 [JQUERY]: https://res.cloudinary.com/dxoqq4yvo/image/upload/c_scale,q_100,w_80/v1647455554/JQueryMark_oduorv.png
 [REACT]: https://res.cloudinary.com/dxoqq4yvo/image/upload/c_scale,q_100,w_80/v1642186935/ReactMark_udafhn.png
-[FIREBASE]: https://res.cloudinary.com/dxoqq4yvo/image/upload/v1647455554/FirebaseMark_w9ocbr.png
+[FIREBASE]: https://res.cloudinary.com/dxoqq4yvo/image/upload/c_scale,q_100,w_80/v1647455554/FirebaseMark_w9ocbr.png
