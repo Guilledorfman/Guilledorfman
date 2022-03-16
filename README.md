@@ -4,7 +4,7 @@
 ###### Feel free to add me on [LinkedIn](https://www.linkedin.com/in/guille-dorfman/)
 #
 #
-> ![html][HTML] ![css][CSS] ![js][JS] ![react][REACT] ![sass][SASS]
+> ![html][HTML] ![css][CSS] ![js][JS] ![react][REACT]
 
 
 [HTML]:https://res.cloudinary.com/dxoqq4yvo/image/upload/c_scale,q_100,w_80/v1642186935/HTMLMark_yahv2g.png
