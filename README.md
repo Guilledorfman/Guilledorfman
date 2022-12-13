@@ -5,7 +5,6 @@
 
 #### [Porfolio](https://guilledorfman.netlify.app/)
 #
-My arsenal:
 > ![html][HTML] ![css][CSS] ![sass][SASS] ![js][JS] ![jquery][JQUERY] ![react][REACT] ![firebase][Firebase]
 
 
