@@ -3,7 +3,6 @@
 
 ###### Feel free to add me on [LinkedIn](https://www.linkedin.com/in/guille-dorfman/)
 
-#### [Porfolio](https://guilledorfman.netlify.app/)
 #
 > ![html][HTML] ![css][CSS] ![sass][SASS] ![js][JS] ![jquery][JQUERY] ![react][REACT] ![firebase][Firebase] ![flutter][Flutter]
 
